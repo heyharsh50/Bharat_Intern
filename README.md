@@ -4,7 +4,7 @@ ARTIFICIAL INTELLIGENCE INTERNSHIP
 
 TASK 1: RESUME PARSER
 
-CODE:
+CODE: https://github.com/heyharsh50/Bharat_Intern/blob/main/Resume.ipynb
 
 TASK 2: AUTO CORRECT TOOL
 
